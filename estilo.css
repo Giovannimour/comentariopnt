@@ -1,0 +1,26 @@
+/* Esto es un comentario en CSS*/
+.button {
+  background-color: rgb(53, 42, 107);
+  color: white;
+  padding: 15px 130px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  background-color: rgb(191, 191, 191);
+  background-size: cover;
+  background-position: center;
+  color: rgb(
+    255,
+    255,
+    255
+  ); /* set text color to white to contrast with the image */
+  opacity: 0.9;
+}
